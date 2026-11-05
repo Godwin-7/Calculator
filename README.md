@@ -1,2 +1,2 @@
  
-CN Project
+CN Project Details
