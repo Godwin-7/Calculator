@@ -1,2 +1,2 @@
- CN PROJECT
-CN Project Details
+# CN PROJECT
+Calculator
